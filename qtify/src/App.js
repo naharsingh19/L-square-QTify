@@ -1,10 +1,14 @@
 
 import './App.css';
+import HeroImage from './Components/HeroImage/HeroImage';
 import  Navbar from './Components/Navbar/Navbar'
 function App() {
   return (
-    <Navbar/>
-  );
+    <div>
+     <Navbar />
+     <HeroImage />
+    </div>
+   );
 }
 
 export default App;
