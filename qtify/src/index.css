@@ -39,9 +39,13 @@ a {
 /* Apply a basic box-sizing to all elements for consistent sizing */
 *, *::before, *::after {
   box-sizing: border-box;
+<<<<<<< HEAD
 }
 
 
 /* .css-bnc8dt {
   display: none;
 } */
+=======
+}
+>>>>>>> 510cfeffd2fad82e0c5662f3eddc0ffa99b3ce66

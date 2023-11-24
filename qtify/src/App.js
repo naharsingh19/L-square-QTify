@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import './App.css';
 import FeedbackForm from './Components/FeedbackForm/FeedbackForm';
@@ -34,6 +35,19 @@ function App() {
       
     </div>
   );
+=======
+
+import './App.css';
+import HeroImage from './Components/HeroImage/HeroImage';
+import  Navbar from './Components/Navbar/Navbar'
+function App() {
+  return (
+    <div>
+     <Navbar />
+     <HeroImage />
+    </div>
+   );
+>>>>>>> 510cfeffd2fad82e0c5662f3eddc0ffa99b3ce66
 }
 
 export default App;

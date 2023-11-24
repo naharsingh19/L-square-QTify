@@ -6,8 +6,13 @@
 }
 
 .searchbar input {
+<<<<<<< HEAD
     /* height: 48px; */
     /* width: 568px; */
+=======
+     height: 48px; 
+    width: 568px; 
+>>>>>>> 510cfeffd2fad82e0c5662f3eddc0ffa99b3ce66
     flex: 1;
     border-radius: 12px 0 0 12px;
     border: gray;
@@ -20,7 +25,12 @@
     width: 66px;
     border: 1px solid black;
     border-radius:0 12px 12px 0;
+<<<<<<< HEAD
     cursor: pointer;
+=======
+    
+    
+>>>>>>> 510cfeffd2fad82e0c5662f3eddc0ffa99b3ce66
 
 }
 
